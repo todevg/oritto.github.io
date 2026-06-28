@@ -1,6 +1,5 @@
 import { readdir, readFile, stat } from 'node:fs/promises';
 import path from 'node:path';
-import process from 'node:process';
 
 const projectRoot = process.cwd();
 const publicRoot = path.join(projectRoot, 'public');
