@@ -1,0 +1,12 @@
+{
+  "name": "oritto-led-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node --check public/js/app.js && node scripts/validate-site.mjs",
+    "test:links": "node scripts/validate-site.mjs --links",
+    "test:a11y": "node scripts/validate-site.mjs --accessibility",
+    "test:ui": "node scripts/validate-site.mjs --ui"
+  }
+}

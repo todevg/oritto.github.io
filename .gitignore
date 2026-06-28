@@ -1,5 +1,6 @@
-# Documentation folder (as requested)
-docs/
+# Keep Markdown requirements and plans tracked; ignore raw source binaries.
+docs/*.pptx
+docs/*.pdf
 
 # OS generated files
 .DS_Store

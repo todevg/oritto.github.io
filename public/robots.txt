@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://todevg.github.io/oritto.github.io/sitemap.xml
