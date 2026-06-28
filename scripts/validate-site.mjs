@@ -62,9 +62,10 @@ async function validateHtml(file) {
   if (/Ticket Status:\s*IN PROGRESS|Assigned Field Engineer/i.test(html)) report(file, 'contains simulated complaint status');
   if (isNestedPage && !/<base\s+href="\.\.\/">/i.test(html)) report(file, 'nested page must define base href="../"');
 
+  const linkableHtml = html.replace(/<base\b[^>]*>/gi, '');
   const references = [
-    ...extractAttributeValues(html, 'href'),
-    ...extractAttributeValues(html, 'src')
+    ...extractAttributeValues(linkableHtml, 'href'),
+    ...extractAttributeValues(linkableHtml, 'src')
   ];
 
   for (const reference of references) {
