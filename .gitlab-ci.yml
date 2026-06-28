@@ -1,0 +1,13 @@
+# GitLab Pages Configuration for ORITTO LED Lights
+image: alpine:latest
+
+pages:
+  stage: deploy
+  script:
+    - echo "Deploying static website to GitLab Pages..."
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main"
+    - if: $CI_COMMIT_BRANCH == "master"

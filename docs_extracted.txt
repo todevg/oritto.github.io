@@ -1,0 +1,384 @@
+=== PAGE 1 ===
+ORITTO Website + Store Sitemap
+Domains to be linked 
+oritto.com 
+oritto.in
+oritto.co.in
+1
+
+=== PAGE 2 ===
+Website Brief 
+ORITTO is planned to be a confident Consumer products brand and should be worked upon like one. A vibrant yet professional webpage design so as to make an impression 
+of ORITTO LED Lights as a young and solid upcoming brand with solid product base. Emotional connect should be developed while drafting copy for the website. ORITTO is 
+planned to be  a consumer products brand so the treatment should be accordingly planned. 
+Integration with Social Media namely - Twitter, Facebook , Linkedin, Youtube, Videeo….Whatsapp Integration
+Website should be designed in such a manner that the visitor should be able to make a purchase decision from each of the current page possible.
+Responsive Template and Theme as per international standard. 
+Product listing and Search. Implement Dynamic features for manage Category, Sub-category, Products online Enquiry etc.
+Website should be designed in such a manner that the visitor should be able to make a purchase decision from each of the current page possible.
+Web analytics of website visitor’s geography and other profile wise.
+End user registration facility
+Blog
+Admin Module
+For website, regular updates.
+• The admin user should be able to make any changes needed in technical specifications as and when required on his own rather than depending on the technical team
+• Products Updates (Products picture, Name, Price, Description, Discounts etc.)
+• Add/Edit products and website content
+• Online enquiry and notification alert
+• Provide Training for products listing and admin module.
+• Customer Management
+Pages will be considered completed only when the pages are good to go live.
+2
+
+=== PAGE 3 ===
+One time SEO activities
+Indicative though not limited to
+Strict NO for Just page no. wise indexed pages
+SEO perspective should be top priority for copywriting.
+a
+titles
+b
+Keywords. The pages should contain key words for SEO
+c
+URL structure
+d
+Internal Linking
+e
+XML Sitemap
+f
+HTML sitemap
+g
+Robots file
+h
+Image optimization
+i
+google analytics code integration
+j
+google webmasters code integration
+3
+
+=== PAGE 4 ===
+ORITTO LED LIGHTS
+1.
+Corporate
+a.
+Banners (3-4) high resolution with Oritto mother image 
+b.
+Oritto world animation
+c.
+About Oritto - Journey like how did it start - what was the idea - what were the 
+challenges - evaluation of manufacturing setup - Differentiator points about oritto - 
+services provided.
+d.
+Vision, Mission, Values
+e.
+Journey/milestone
+f.
+Manufacturing Excellence through Backward Integration
+i.
+Manufacturing Plant - Pictures of factory, process units, with overall 
+explanation
+ii.
+Process flow chart or Infographic
+g.
+Why Oritto?
+h.
+Global Presence
+i.
+Certifications
+j.
+Management Team - Oritto Pillars / Team
+k.
+Clientele (sideways scrolling ticker)
+l.
+Gallery
+m.
+Footer - Contact Us
+2.
+Products 
+a.
+Ceiling Luminaires
+i.
+Surface Luminaires
+ii.
+Panel Luminaires
+b.
+Bulbs
+c.
+Battens 
+d.
+Wall Luminaires
+e.
+Bulkheads
+f.
+CoB Luminaires
+g.
+Mirror Luminaires
+h.
+Cabinet Luminaires
+i.
+Smart Luminaires
+j.
+Emergency_Inverter Luminaires
+k.
+Facade Luminaires
+l.
+Road Luminaires
+m.
+Flood_High Mast Luminaires
+n.
+High-Bay Luminaires
+o.
+Flame Proof Luminaires
+p.
+Bollards
+q.
+Post Top Lanterns
+r.
+Swimming Pool Luminaires
+s.
+Designer Poles & Furniture
+Footer
+3.   Solutions
+○
+Residential & Apartments
+○
+Offices (Banks, Hotels, Hospitals & Schools)
+○
+Retail & Museums
+○
+Pharma, Operation theaters and Cold Storages
+○
+Entertainment & Sports
+○
+Ports and SEZs
+○
+Airports, Metros and Railway Stations
+○
+Industrial and Warehouses
+○
+Architectural Monuments
+○
+Landscape
+○
+Swimming Pools
+○
+Emergency & Exits
+Footer
+4.   Solar 
+○
+Solar Street Lights
+■
+Semi-Integrated
+■
+All-in-One
+■
+Hybrid 
+○
+Solar Mini Mast 
+○
+Solar High mast 
+○
+Solar CCTV Cameras
+○
+Solar Traffic Blinkers
+○
+Solar Mobile Lighting Towers
+Footer
+5. 
+Offers
+6.        Support 
+•
+Sales Enquiry
+•
+Service Request
+•
+Contact us
+7.  
+Distribution Enquiry
+
+=== PAGE 5 ===
+Home Page needs to be absolutely brilliant and high energy and sharpness - Similar to 
+One8 https://www.one8.com/. 
+We need to have an animation for t
+5
+
+=== PAGE 6 ===
+Header
+Company       Products     Solutions     Solar      Support      Distribution Enquiry
+
+=== PAGE 7 ===
+•
+Search box to be provided at top right
+•
+Chat with us to be hanging on current screen all the time. 
+•
+Enquiry box to be hanging at all times on each page being 
+navigated without the need to go to contact us page. 
+7
+
+=== PAGE 8 ===
+Menu drop down to be something like this 
+both Products menu and Solutions Menu
+8
+
+=== PAGE 9 ===
+Navigation tabs feature needed at 
+following locations
+Ref: 
+https://norwoodmodul
+ar.com/pages/led-categ
+ories
+• Product category 
+Switching
+• Product Models 
+Switching
+• Product Application 
+Switching
+9
+
+=== PAGE 10 ===
+Solutions  on scrolling page 
+Ref: https://orientelectric.com/pages/lighting
+10
+
+=== PAGE 11 ===
+Support
+●
+Service  Request
+2 drop down menus with selectable 
+options required
+•
+Customer Type
+–
+Distribut
+or 
+–
+B2B
+–
+B2C
+–
+Institutio
+nal
+•
+Request Type
+–
+Inspectio
+n 
+Request
+–
+Service 
+Request
+Message/Issue : 
+●
+Track Complaint
+2 Text Boxes Required
+•
+Ticket no. 
+OR
+•
+Mobile No.
+●
+Grievance Redressal
+In case of any grievances for purchases 
+made on E-Commerce platforms, please 
+contact:
+After Sales Support (support@oritto.com)
+If your query is not resolved in 14 days, 
+please contact:
+11
+Support page should cater to Three types of requests
+  
+Ref: https://polycab.com/contact-us/support 
+1.
+Sales Enquiry
+2.
+Service Enquiry
+3.
+Contact Us 
+4.
+Downloads
+a.
+Product Catalogs
+i.
+Consumer Luminaries
+ii.
+Professional Luminaries 
+iii.
+Architectural 
+iv.
+Solar 
+v.
+Landscape 
+b.
+Policies
+i.
+Warranty Policy
+ii.
+Return and Replacement Policy
+Sales Enquiry :
+Request type: 
+Name
+Mob./Contact: 
+Address: 
+Country : Drop down 
+(India , Others)
+State (All active states)
+City (All cities as per 
+state selected)
+Message :
+Contact Us: 
+Registered Office/Plant: 
+Prabuddha Power 
+Plot no. E-1(D), New II Industrial Area,
+Opposite MPEB Substation,
+Mandideep
+BHopal 
+Madhya Pradesh 
+India - 462046 
+Phone Numbers
+Tel No: 07480 - 49398 
+Toll Free No: 1800-889-4722
+WhatsApp No:  9993971796
+Email Address
+Service Request, Quality & Product 
+complaints: support@polycab.com
+Sales Enquiry: sales@oritto.com
+Distributor/Dealership Enquiry: info@oritto.com
+Invester Relations Enquiry: info@oritto.com
+Exports Enquiry: exports@oritto.com
+
+=== PAGE 12 ===
+Distributor Enquiry
+(Please fill the details in capital letters)
+Enquiry Type : Drop down (Depot/Distributor/Dealer)
+Business Entity Name:
+Owner/Promotor Name:
+GST no. 
+Contact no.
+Email ID:
+Country :
+State
+City 
+Town 
+Address:
+PINCODE
+Years of experience in Business
+Annual Sales/turnover of your Business 
+Proposed Investment 
+Message:
+12
+
+=== PAGE 13 ===
+Shop 
+We don’t want to have our own shopify or any 
+other store as of now…
+13
+
+=== PAGE 14 ===
+Footer
+14
+Footer should have the complete Site map at 
+the bottom aliong with Contact us/Suppprt 
+Details and Social media icons 
+
